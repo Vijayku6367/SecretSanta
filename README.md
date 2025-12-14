@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SecretSanta
 =======
 🎅 Secret Santa Magic - Encrypted Gift Exchange
@@ -229,8 +228,3 @@ You now have a working, private, magical Secret Santa system that:
 · Teaches real-world privacy tech 🎓
 
 Ready to spread some encrypted holiday cheer? 🎄✨
-
----
-
-Made with ❤️ for the Zama Bounty Program - Bringing privacy to everyone, one secret Santa at a time!
->>>>>>> 41760fc (Initial commit)
